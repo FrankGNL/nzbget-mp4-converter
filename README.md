@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/FrankGNL/nzbget-mp4-converter.svg?branch=master)](https://travis-ci.org/FrankGNL/nzbget-mp4-converter)
+[![Docker Stars](https://img.shields.io/docker/stars/frankgnl/nzbget-mp4-converter.svg)](https://hub.docker.com/r/frankgnl/nzbget-mp4-converter/) [![Docker Pulls](https://img.shields.io/docker/pulls/frankgnl/nzbget-mp4-converter.svg)](https://hub.docker.com/r/frankgnl/nzbget-mp4-converter/) [![Docker Automated buil](https://img.shields.io/docker/automated/frankgnl/nzbget-mp4-converter.svg)](https://hub.docker.com/r/frankgnl/nzbget-mp4-converter/) [![](https://images.microbadger.com/badges/image/frankgnl/nzbget-mp4-converter.svg)](https://microbadger.com/images/frankgnl/nzbget-mp4-converter "Get your own image badge on microbadger.com") [![Build Status](https://travis-ci.org/FrankGNL/nzbget-mp4-converter.svg?branch=master)](https://travis-ci.org/FrankGNL/nzbget-mp4-converter)
 
 # nzbget-mp4-converter
