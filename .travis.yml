@@ -1,0 +1,14 @@
+install:
+  - curl -sSL https://get.docker.com/ | sudo sh
+
+script:
+  - sudo docker build -t nzbget:test .
+  - sudo docker run -d -p 6789:6789 nzbget:test
+  - sudo docker ps -a
+
+notifications:
+  email:
+    recipients:
+      - frank@groenewoud.me
+    on_success: never
+    on_failure: always
