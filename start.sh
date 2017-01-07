@@ -6,7 +6,7 @@ mv -n /tmp/sickbeard_mp4_automator /config/scripts/
 mv -n /tmp/nzbToMedia /config/scripts/
 mv -n /tmp/VideoSort /config/scripts/
 
-cp /config/scripts/sickbeard_mp4_automator/autoProcess.ini.sample /config/scripts/sickbeard_mp4_automator/autoProcess.ini
+mv -n /config/scripts/sickbeard_mp4_automator/autoProcess.ini.sample /config/scripts/sickbeard_mp4_automator/autoProcess.ini
 
 touch /config/nzbget.log
 
